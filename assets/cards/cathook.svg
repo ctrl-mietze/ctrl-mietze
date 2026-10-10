@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-label="MultiTask: Android tasks · LSPosed framework">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#110b1d"/><stop offset=".6" stop-color="#080610"/><stop offset="1" stop-color="#0d0a14"/></linearGradient><radialGradient id="aura"><stop stop-color="#ffc48a" stop-opacity=".24"/><stop offset="1" stop-color="#ffc48a" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="558" height="208" rx="19" fill="url(#bg)" stroke="#ffc48a" stroke-opacity=".44" stroke-width="2"/>
+<ellipse cx="477" cy="110" rx="175" ry="165" fill="url(#aura)"/>
+<path d="M32 37H64" stroke="#ffc48a" stroke-width="3" stroke-linecap="round"/>
+<text x="77" y="42" fill="#9e8daf" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.2" font-weight="700">C A T H O O K  /  C A T C O R E</text>
+<text x="32" y="99" fill="#fbf7ff" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800">MultiTask</text>
+<text x="34" y="129" fill="#bfb0d3" font-family="Arial,Helvetica,sans-serif" font-size="17">Android tasks · LSPosed framework</text>
+<path d="M32 149H528" stroke="#9b75cc" stroke-opacity=".19"/>
+<circle cx="42" cy="179" r="4" fill="#ffc48a"/>
+<text x="56" y="183" fill="#ffc48a" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">V2 MULTITASK ENGINE</text>
+<text x="506" y="140" text-anchor="end" fill="#ffc48a" fill-opacity=".13" font-family="Arial,Helvetica,sans-serif" font-size="116" font-weight="800">++</text>
+<path d="M458 28H528M528 28V67M530 183H508" fill="none" stroke="#ffc48a" stroke-opacity=".35" stroke-width="2"/>
+</svg>
