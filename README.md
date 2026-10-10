@@ -30,7 +30,7 @@ From kernel research to app installation, system hooks and multitasking — I'm 
 
 ### 01 / About me
 
-I'm a developer from Germany with a strong interest in Android internals, system integration, root frameworks and practical automation. My work revolves around building useful tools, exploring how operating systems behave and refining ideas into real projects.
+I'm a developer with a strong interest in Android internals, system integration, root frameworks and practical automation. My work revolves around building useful tools, exploring how operating systems behave and refining ideas into real projects.
 
 - **What I enjoy:** Android engineering, reverse engineering, system-level tools, automation and thoughtful UI.
 - **How I work:** inspect first, understand the risks, document decisions, test deliberately.
